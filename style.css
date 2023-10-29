@@ -1,0 +1,45 @@
+* {
+    margin-left: 10%;
+    margin-right: 10%;
+    border: solid red 2px;
+}
+
+header, footer {
+    background-color: #1F2937;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.navBar {
+    display: flex;
+}
+
+.pics {
+    display: flex;
+    font-size: 10px;
+    padding: 5px;
+    margin: 0px;
+}
+
+.random {
+    text-align: center;
+}
+
+button {
+    background-color: #3882F6;
+}
+
+.action {
+    background-color: #3882F6;
+    display: flex;
+}
+
+.quote {
+    background-color: #989a9e;
+    font-size:  36px;
+    font-style: italic;
+    color: #1F2937;
+}
